@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1497826644 source:d:\codeblocks\mk ver 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+
+1497823867 source:d:\marcin_prywatne\marcin dropbox\dropbox\programowanie\codeblocks\mk ver 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+
