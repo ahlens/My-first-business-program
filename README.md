@@ -1,2 +1,0 @@
-# My-first-business-program
-This is my first program where I focus on strenghten code skills from YouTube tutorials I've watched. As a fun of businnes aplications, I decided to copy functionalities from very popular Polish program called Subiekt_GT. This product is used in small and medium companies. I simply test my skills in this repository and each time I came back here I try to implement something new and more professional when it comes to functions and code syntax.
